@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Jatin 👋<br>I’m currently pursuing my B.Tech (Bachelor of Technology) in Computer Science at Gulzar Group of Institutes (GGI), Khanna, Punjab.
+# Hi, I'm Jatin:
+👋<br>I’m currently pursuing my B.Tech (Bachelor of Technology) in Computer Science at Gulzar Group of Institutes (GGI), Khanna, Punjab.
 
 
 ## 🌐 Socials:
